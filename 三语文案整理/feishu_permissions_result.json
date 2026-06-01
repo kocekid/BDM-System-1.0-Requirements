@@ -1,0 +1,146 @@
+[
+  {
+    "resource": {
+      "token": "Tr39bkPTqasR5VsHLBDcvRICnwc",
+      "type": "bitable",
+      "url": "https://hcnpm5qm8k7q.feishu.cn/base/Tr39bkPTqasR5VsHLBDcvRICnwc",
+      "note": "第一次失败中途创建的多维表格"
+    },
+    "add_result": {
+      "code": 0,
+      "data": {
+        "member": {
+          "member_id": "ou_6464ed5c9a6c9295880a3588f56e17c2",
+          "member_type": "openid",
+          "perm": "full_access",
+          "perm_type": "container"
+        }
+      },
+      "msg": "Success",
+      "_http": 200
+    },
+    "list_result": {
+      "code": 0,
+      "data": {
+        "items": [
+          {
+            "member_id": "ou_6464ed5c9a6c9295880a3588f56e17c2",
+            "member_type": "openid",
+            "perm": "full_access",
+            "perm_type": "container"
+          }
+        ]
+      },
+      "msg": "Success",
+      "_http": 200
+    }
+  },
+  {
+    "resource": {
+      "token": "O5MRbaSHGaZmvXsfIvfcn13xnbf",
+      "type": "bitable",
+      "url": "https://hcnpm5qm8k7q.feishu.cn/base/O5MRbaSHGaZmvXsfIvfcn13xnbf",
+      "note": "第一次成功但含默认空记录的多维表格"
+    },
+    "add_result": {
+      "code": 0,
+      "data": {
+        "member": {
+          "member_id": "ou_6464ed5c9a6c9295880a3588f56e17c2",
+          "member_type": "openid",
+          "perm": "full_access",
+          "perm_type": "container"
+        }
+      },
+      "msg": "Success",
+      "_http": 200
+    },
+    "list_result": {
+      "code": 0,
+      "data": {
+        "items": [
+          {
+            "member_id": "ou_6464ed5c9a6c9295880a3588f56e17c2",
+            "member_type": "openid",
+            "perm": "full_access",
+            "perm_type": "container"
+          }
+        ]
+      },
+      "msg": "Success",
+      "_http": 200
+    }
+  },
+  {
+    "resource": {
+      "token": "QTLpbvixiaJZy0sohtwcJZyrnMh",
+      "type": "bitable",
+      "url": "https://hcnpm5qm8k7q.feishu.cn/base/QTLpbvixiaJZy0sohtwcJZyrnMh",
+      "note": "修正后的多维表格"
+    },
+    "add_result": {
+      "code": 0,
+      "data": {
+        "member": {
+          "member_id": "ou_6464ed5c9a6c9295880a3588f56e17c2",
+          "member_type": "openid",
+          "perm": "full_access",
+          "perm_type": "container"
+        }
+      },
+      "msg": "Success",
+      "_http": 200
+    },
+    "list_result": {
+      "code": 0,
+      "data": {
+        "items": [
+          {
+            "member_id": "ou_6464ed5c9a6c9295880a3588f56e17c2",
+            "member_type": "openid",
+            "perm": "full_access",
+            "perm_type": "container"
+          }
+        ]
+      },
+      "msg": "Success",
+      "_http": 200
+    }
+  },
+  {
+    "resource": {
+      "token": "Ks4KsBlizhgeuXtqgWucZnSInVh",
+      "type": "sheet",
+      "url": "https://hcnpm5qm8k7q.feishu.cn/sheets/Ks4KsBlizhgeuXtqgWucZnSInVh",
+      "note": "普通飞书表格"
+    },
+    "add_result": {
+      "code": 0,
+      "data": {
+        "member": {
+          "member_id": "ou_6464ed5c9a6c9295880a3588f56e17c2",
+          "member_type": "openid",
+          "perm": "full_access",
+          "perm_type": "container"
+        }
+      },
+      "msg": "Success",
+      "_http": 200
+    },
+    "list_result": {
+      "code": 0,
+      "data": {
+        "items": [
+          {
+            "member_id": "ou_6464ed5c9a6c9295880a3588f56e17c2",
+            "member_type": "openid",
+            "perm": "full_access",
+            "perm_type": "container"
+          }
+        ]
+      },
+      "msg": "Success",
+      "_http": 200
+    }
+  }
+]
